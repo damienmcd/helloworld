@@ -1,0 +1,12 @@
+{
+    "name": "damienmcdonnell/helloworld",
+    "description": "A basic project with composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Damien McDonnell",
+            "email": "dm@cct-marketing.com"
+        }
+    ],
+    "require": {}
+}
